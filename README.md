@@ -1,0 +1,2 @@
+# rustlintest
+rust for debian
